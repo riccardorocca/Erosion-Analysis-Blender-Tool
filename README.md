@@ -22,3 +22,6 @@ Procedure to run the script, after loading it into Blender:
 - set erosion_max, Zmin and Zmax (only cells within these values will be avaluated)
 - set outfile (the output text file name .csv)
 - run the script
+
+Erosion Analysis - Blender Tool.py : the Python script to be loaded in Blender
+Erosion Analysis.blend             : an example Blender project with objects and script
