@@ -1,5 +1,5 @@
 # EROSION ANALYSIS - BLENDER TOOL
-###Calculate the amount of erosion of a 3D model from its ideal original geometry.
+### Calculate the amount of erosion of a 3D model from its ideal original geometry.
 
 Calculate the thickness of the separation between each face of a mesh ("original" surface) and a second mesh ("eroded" surface).  
 The "eroded" object is usually the digital 3D model of a building, generated with photogrammetry or lidar.  
