@@ -24,7 +24,7 @@ Procedure to run the script:
 - set outfile (the output text file name .csv)
 - run the script
 
-# CONTENT
+# FILES
 Erosion Analysis - Blender Tool.py : the Python script to be loaded in Blender
 
 Erosion Analysis.blend : an example Blender project with test objects and script
