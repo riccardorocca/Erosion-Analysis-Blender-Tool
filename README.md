@@ -18,6 +18,7 @@ Inspired by:
 https://blender.stackexchange.com/questions/91626/calculate-surfaces-thickness
 
 Procedure to run the script:
+
 load the script into Blender, then:
  -  update the "original_obj" and "eroded_obj" names
  -  set erosion_max, Zmin and Zmax (only cells within these values will be avaluated)
