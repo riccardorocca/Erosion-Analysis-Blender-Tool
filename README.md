@@ -26,4 +26,4 @@ Procedure to run the script, after loading it into Blender:
 # CONTENT
 Erosion Analysis - Blender Tool.py : the Python script to be loaded in Blender
 
-Erosion Analysis.blend             : an example Blender project with objects and script
+Erosion Analysis.blend : an example Blender project with test objects and script
