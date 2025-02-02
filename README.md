@@ -15,7 +15,7 @@ Inspired by: [Calculate Surface Thickness](https://blender.stackexchange.com/que
 
 ### Procedure to run the script:
 - load the script into Blender: Scripting -> Text -> Open...
-- update the "original_obj" and "eroded_obj" names
+- update the "original_obj" and "eroded_obj" objects names
 - set erosion_max, Zmin and Zmax (only cells within these values will be avaluated)
 - set outfile (the output text file name .csv)
 - run the script
