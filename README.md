@@ -27,3 +27,5 @@ Procedure to run the script, after loading it into Blender:
 Erosion Analysis - Blender Tool.py : the Python script to be loaded in Blender
 
 Erosion Analysis.blend : an example Blender project with test objects and script
+
+README.md : this help
