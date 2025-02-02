@@ -21,8 +21,6 @@ Inspired by: [Calculate Surface Thickness](https://blender.stackexchange.com/que
 - run the script
 
 ### Files:
-**Erosion Analysis - Blender Tool.py** : the Python script to be loaded in Blender
-
-**Erosion Analysis.blend** : an example Blender project with test objects and script
-
-**README.md** : this help
+- **Erosion Analysis - Blender Tool.py** : the Python script to be loaded in Blender
+- **Erosion Analysis.blend** : an example Blender project with test objects and script
+- **README.md** : this help
