@@ -11,7 +11,7 @@ Face area, erosion and volume (area * erosion) are exported to a text file (.csv
 **| face index | x | y | z** *(coordinates of the face center)* **| cell area | erosion | volume |**  
 The file can be opened in Excel for further analysis, i.e. calculate the total volume of erosion.  
 
-Inspired by: [Calculate Surface Thickness](https://blender.stackexchange.com/questions/91626/calculate-surfaces-thickness)
+Inspired by: [Blender StackExchange: Calculate Surface Thickness](https://blender.stackexchange.com/questions/91626/calculate-surfaces-thickness)
 
 ### Procedure to run the Add-on:
 - install the AddOn in Blender: Edit -> Preferences... -> Add-ons -> Install...
