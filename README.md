@@ -27,4 +27,4 @@ Inspired by: [Calculate Surface Thickness](https://blender.stackexchange.com/que
 - **README.md** : this help
 
 ### Extra:
-Youtube video that demonstrates the use of the Erosion Analysis Add-on: https://youtu.be/KOYcD5GtISI
+Youtube video that demonstrates the use of the Erosion Analysis add-on: https://youtu.be/KOYcD5GtISI
