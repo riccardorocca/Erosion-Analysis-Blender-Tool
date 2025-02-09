@@ -21,7 +21,7 @@ Inspired by: [Blender StackExchange: Calculate Surface Thickness](https://blende
 - set the output file (with extension .csv)
 - run the Analysis
 
-![]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/riccardorocca/Erosion-Analysis-Blender-Tool/docs/Addon_Menu.png)
+![](https://github.com/riccardorocca/Erosion-Analysis-Blender-Tool/docs/Addon_Menu.png)
 
 ### Files:
 - **Erosion Analysis - Blender Tool.py** : the AddOn to be installed in Blender
