@@ -19,7 +19,7 @@ Inspired by: [Blender StackExchange: Calculate Surface Thickness](https://blende
 - select the two objects representing the eroded object and the theoretical original surface 
 - set the Erosion Limit, Z minimum and Zmaximum (only cells within these values will be evaluated)
 - set the output file (with extension .csv)
-- run the Analysis
+- run the Erosion Analysis
 
 ![](https://github.com/riccardorocca/Erosion-Analysis-Blender-Tool/blob/main/docs/Addon_Menu.png)
 
