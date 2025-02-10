@@ -19,9 +19,9 @@ Inspired by: [Blender StackExchange: Calculate Surface Thickness](https://blende
 - select the two objects representing the eroded object and the theoretical original surface 
 - set the Erosion Limit, Z minimum and Zmaximum (only cells within these values will be evaluated)
 - set the output file (with extension .csv)
-- run the Analysis
+- run the Erosion Analysis
 
-![]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/riccardorocca/Erosion-Analysis-Blender-Tool/docs/Addon_Menu.png))
+![](https://github.com/riccardorocca/Erosion-Analysis-Blender-Tool/blob/main/docs/Addon_Menu.png)
 
 ### Files:
 - **Erosion Analysis - Blender Tool.py** : the AddOn to be installed in Blender
@@ -29,4 +29,4 @@ Inspired by: [Blender StackExchange: Calculate Surface Thickness](https://blende
 - **README.md** : this help
 
 ### Extra:
-Youtube video that demonstrates the use of the Erosion Analysis add-on: https://youtu.be/KOYcD5GtISI
+[Youtube video that demonstrates the use of the Erosion Analysis add-on](https://youtu.be/KOYcD5GtISI)
