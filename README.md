@@ -27,7 +27,7 @@ Inspired by: [Blender StackExchange: Calculate Surface Thickness](https://blende
 
 ### Files:
 - **Erosion Analysis - Blender Tool.py** : the AddOn to be installed in Blender
-- **Erosion Analysis - Objects.fbx** : the example 3D model to load in Blender in order to test the AddOn
+- **Erosion Analysis - Objects.fbx** : the example 3D model to be loaded into Blender in order to test the AddOn
 - **README.md** : this help
 
 ### Extra:
