@@ -31,4 +31,4 @@ Inspired by: [Blender StackExchange: Calculate Surface Thickness](https://blende
 - **README.md** : this help
 
 ### Extra:
-Demonstration video: [Erosion Analysis. Blender AddOn](https://www.youtube.com/watch?v=KOYcD5GtISI)
+- **Demonstration video:** [Erosion Analysis. Blender AddOn](https://www.youtube.com/watch?v=KOYcD5GtISI)
