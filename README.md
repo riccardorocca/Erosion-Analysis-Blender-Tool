@@ -31,6 +31,3 @@ Demonstration video: [Erosion Analysis. Blender AddOn](https://www.youtube.com/w
 - **Erosion Analysis - Blender Tool.py** : the AddOn to be installed in Blender
 - **Erosion Analysis - Objects.fbx** : the example 3D model to be loaded into Blender in order to test the AddOn
 - **README.md** : this help
-
-### Extra:
-[Youtube video that demonstrates the use of the Erosion Analysis add-on](https://youtu.be/KOYcD5GtISI)
