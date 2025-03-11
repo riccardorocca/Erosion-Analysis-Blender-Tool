@@ -15,8 +15,6 @@ The file can be opened in Excel for further analysis, i.e. calculate the total v
 
 Inspired by: [Blender StackExchange: Calculate Surface Thickness](https://blender.stackexchange.com/questions/91626/calculate-surfaces-thickness)
 
-Demonstration video: [Erosion Analysis. Blender AddOn](https://www.youtube.com/watch?v=KOYcD5GtISI)
-
 ### Procedure to run the Add-on:
 - install the AddOn in Blender: Edit -> Preferences... -> Add-ons -> Install...
 - open the Add-on from the side menu (press the "N" key)
@@ -31,3 +29,6 @@ Demonstration video: [Erosion Analysis. Blender AddOn](https://www.youtube.com/w
 - **Erosion Analysis - Blender Tool.py** : the AddOn to be installed in Blender
 - **Erosion Analysis - Objects.fbx** : the example 3D model to be loaded into Blender in order to test the AddOn
 - **README.md** : this help
+
+### Extra:
+Demonstration video: [Erosion Analysis. Blender AddOn](https://www.youtube.com/watch?v=KOYcD5GtISI)
